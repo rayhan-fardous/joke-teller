@@ -44,18 +44,6 @@ open index.html
 
 ---
 
-## 🧠 Voice Command Example
-
-Just say:
-
-```
-Tell me a joke
-```
-
-…and the app will do the rest.
-
----
-
 ## 🖼️ Demo
 You can host this project, Example:
 
